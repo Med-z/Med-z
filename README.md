@@ -2,7 +2,7 @@
 
 Many projects have been carried out with my student partner. This is why a lot of links redirect to his github. 
 
-## personal
+## Personal
 * [Unity game ](https://github.com/Med-z/First-2d-unity-game) (c#)
 * [pokemon stats](https://github.com/Med-z/Pokestats) (java android)
 * [street fighter like](https://github.com/Med-z/Java_street_fighter_like) (java)
